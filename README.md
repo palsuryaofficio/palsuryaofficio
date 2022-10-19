@@ -1,6 +1,6 @@
-- 👋 Hi, myself Surya Pal
+- 👋 Hi, myself Dibyasankha Pal
 - 👀 I’m interested in ethical hacking and professional coding including DSA
-- 🌱 I’m currently learning B.Tech in CSE 
+- 🌱 I’m currently pursuing B.Tech in CSE | Undergrad @ UEMK '24
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ paldsurya8@gmail.com
 
